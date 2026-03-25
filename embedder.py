@@ -16,11 +16,20 @@ _chunk_metadata: list[dict] = []
 
 
 def get_model() -> SentenceTransformer:
-    """Lazy-load and cache the embedding model."""
+    """Lazy-load and cache the embedding model with retry logic for HF Spaces timeouts."""
     global _model
     if _model is None:
         print(f"[embedder] Loading model: {MODEL_NAME}")
-        _model = SentenceTransformer(MODEL_NAME)
+        import time
+        for attempt in range(5):
+            try:
+                _model = SentenceTransformer(MODEL_NAME)
+                break
+            except Exception as e:
+                print(f"[embedder] Model download attempt {attempt+1} failed: {e}")
+                time.sleep(3)
+        if _model is None:
+            raise RuntimeError("Failed to load SentenceTransformer after multiple attempts.")
         print("[embedder] Model loaded.")
     return _model
 
