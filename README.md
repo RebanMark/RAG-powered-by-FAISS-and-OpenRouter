@@ -1,3 +1,15 @@
+---
+title: Neural Networks & Deep Learning Q&A
+emoji: 🧠
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "6.10.0"
+python_version: "3.12"
+app_file: app.py
+pinned: false
+---
+
 # 🧠 Neural Networks & Deep Learning — Video RAG Q&A
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
