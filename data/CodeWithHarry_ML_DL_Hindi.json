@@ -1,0 +1,1802 @@
+{
+  "video_id": "C6YtPJxNULA",
+  "name": "CodeWithHarry_ML_DL_Hindi",
+  "language": "en (manual)",
+  "transcript": [
+    {
+      "text": "So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024.",
+      "start": 0.0,
+      "duration": 6.5
+    },
+    {
+      "text": "In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software,",
+      "start": 6.5,
+      "duration": 7.3
+    },
+    {
+      "text": "my opinion is a little different here.",
+      "start": 13.8,
+      "duration": 1.7
+    },
+    {
+      "text": "I will say who will take away the jobs, not AI.",
+      "start": 15.5,
+      "duration": 2.5
+    },
+    {
+      "text": "The person who will learn to learn AI and machine learning tools will take away.",
+      "start": 18.0,
+      "duration": 3.7
+    },
+    {
+      "text": "Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him",
+      "start": 21.7,
+      "duration": 4.3
+    },
+    {
+      "text": "to do those things",
+      "start": 26.0,
+      "duration": 2.0
+    },
+    {
+      "text": "which a normal software developer",
+      "start": 28.0,
+      "duration": 2.0
+    },
+    {
+      "text": "does with a lot of hard work",
+      "start": 30.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and in this way your smart work will be useful",
+      "start": 32.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that what are you doing",
+      "start": 34.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what are you learning",
+      "start": 36.0,
+      "duration": 2.0
+    },
+    {
+      "text": "there was a way to do a task in 10 minutes",
+      "start": 38.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you made it in an hour",
+      "start": 40.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you are doing it with that classical approach",
+      "start": 42.0,
+      "duration": 2.0
+    },
+    {
+      "text": "then the person who is doing approach so that person will replace you",
+      "start": 44.0,
+      "duration": 2.0
+    },
+    {
+      "text": "who is doing it in 10 minutes",
+      "start": 46.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and today I will talk about what is machine learning",
+      "start": 48.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what is AI",
+      "start": 50.0,
+      "duration": 2.0
+    },
+    {
+      "text": "how you can learn AI and machine learning",
+      "start": 52.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and we will talk about some modern tools",
+      "start": 54.0,
+      "duration": 2.0
+    },
+    {
+      "text": "which you should use",
+      "start": 56.0,
+      "duration": 2.0
+    },
+    {
+      "text": "if you want to focus on machine learning and artificial intelligence",
+      "start": 58.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in 2024",
+      "start": 60.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and you want to give a boost to your career",
+      "start": 62.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say",
+      "start": 64.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you want to save your career. What is machine learning?",
+      "start": 66.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Machine learning is a process of training an algorithm on data",
+      "start": 69.0,
+      "duration": 3.0
+    },
+    {
+      "text": "What does it mean? You have a lot of data",
+      "start": 72.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Let's say you have 3 billion data points",
+      "start": 75.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and now you want that you",
+      "start": 78.0,
+      "duration": 3.0
+    },
+    {
+      "text": "can predict about new data points",
+      "start": 81.0,
+      "duration": 3.0
+    },
+    {
+      "text": "by looking at 3 billion data points.",
+      "start": 84.0,
+      "duration": 2.04
+    },
+    {
+      "text": "Now let us say I have data that how fast was the wind",
+      "start": 86.04,
+      "duration": 2.98
+    },
+    {
+      "text": "I have data that how much was the precipitation, how much was the humidity",
+      "start": 89.02,
+      "duration": 3.02
+    },
+    {
+      "text": "and what was the temperature that day and I have to predict",
+      "start": 92.04,
+      "duration": 3.0
+    },
+    {
+      "text": "whether it is going to rain or not.",
+      "start": 95.04,
+      "duration": 3.0
+    },
+    {
+      "text": "I can do this using machine learning algorithms.",
+      "start": 98.04,
+      "duration": 3.0
+    },
+    {
+      "text": "How will I do prediction? I will do it",
+      "start": 101.04,
+      "duration": 3.0
+    },
+    {
+      "text": "by showing that old data to a machine learning algorithm",
+      "start": 104.04,
+      "duration": 1.96
+    },
+    {
+      "text": "so i will say when the precipitation was this much",
+      "start": 106.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and humidity was this much and temperature was this much then it rained",
+      "start": 109.0,
+      "duration": 3.0
+    },
+    {
+      "text": "when the precipitation, humidity and temperature was this much then it didn't rain",
+      "start": 112.0,
+      "duration": 3.0
+    },
+    {
+      "text": "when i will give a new value that today's precipitation, humidity",
+      "start": 115.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and temperature is this much then it will tell me",
+      "start": 118.0,
+      "duration": 3.0
+    },
+    {
+      "text": "that according to this value today it is not going to rain",
+      "start": 121.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and today it is going to rain, today it is going to rain",
+      "start": 124.0,
+      "duration": 2.0
+    },
+    {
+      "text": "will it be true? no, it will be a prediction",
+      "start": 126.0,
+      "duration": 3.0
+    },
+    {
+      "text": "so what machine learning and AI does is predictions",
+      "start": 129.0,
+      "duration": 3.0
+    },
+    {
+      "text": "I have talked about a very simple prediction",
+      "start": 132.0,
+      "duration": 3.0
+    },
+    {
+      "text": "but if you take this thing to the next level",
+      "start": 135.0,
+      "duration": 3.0
+    },
+    {
+      "text": "through deep learning, if you train complex algorithms",
+      "start": 138.0,
+      "duration": 3.0
+    },
+    {
+      "text": "then it is seen there",
+      "start": 141.0,
+      "duration": 3.0
+    },
+    {
+      "text": "that by training complex algorithms",
+      "start": 144.0,
+      "duration": 2.0
+    },
+    {
+      "text": "this process becomes so dangerous",
+      "start": 146.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that humans also get amazed",
+      "start": 148.0,
+      "duration": 2.0
+    },
+    {
+      "text": "chart gpt is a classic example of this",
+      "start": 150.0,
+      "duration": 2.0
+    },
+    {
+      "text": "chart gpt is not a pure machine learning model",
+      "start": 152.0,
+      "duration": 2.0
+    },
+    {
+      "text": "chart gpt",
+      "start": 154.0,
+      "duration": 2.0
+    },
+    {
+      "text": "gives you some layer of abstraction",
+      "start": 156.0,
+      "duration": 2.0
+    },
+    {
+      "text": "on machine learning",
+      "start": 158.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that means it has some regular rules",
+      "start": 160.0,
+      "duration": 2.0
+    },
+    {
+      "text": "some checks",
+      "start": 162.0,
+      "duration": 2.0
+    },
+    {
+      "text": "chart gpt is not just a neural network,",
+      "start": 164.0,
+      "duration": 2.2
+    },
+    {
+      "text": "let me tell you this too,",
+      "start": 166.2,
+      "duration": 1.2
+    },
+    {
+      "text": "so on that neural network,",
+      "start": 167.4,
+      "duration": 1.8
+    },
+    {
+      "text": "a little customization is done,",
+      "start": 169.2,
+      "duration": 1.4
+    },
+    {
+      "text": "a thing is made,",
+      "start": 170.6,
+      "duration": 1.6
+    },
+    {
+      "text": "which blows the mind of a common man,",
+      "start": 172.2,
+      "duration": 2.8
+    },
+    {
+      "text": "if you want to learn machine learning,",
+      "start": 175.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and want to learn to deploy machine learning models,",
+      "start": 177.0,
+      "duration": 2.6
+    },
+    {
+      "text": "because in the industry,",
+      "start": 179.6,
+      "duration": 1.2
+    },
+    {
+      "text": "you are not asked the basics,",
+      "start": 180.8,
+      "duration": 1.6
+    },
+    {
+      "text": "you will have real world data,",
+      "start": 182.4,
+      "duration": 1.8
+    },
+    {
+      "text": "and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data",
+      "start": 184.2,
+      "duration": 1.8
+    },
+    {
+      "text": "and give some insights",
+      "start": 186.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and make the business profit",
+      "start": 188.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and in this situation, it is not necessary",
+      "start": 190.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that you know the machine learning algorithm",
+      "start": 192.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and this function or not",
+      "start": 194.0,
+      "duration": 2.0
+    },
+    {
+      "text": "but there it is necessary",
+      "start": 196.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that how long are you doing the implementation",
+      "start": 198.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and if you are able to do the implementation well",
+      "start": 200.0,
+      "duration": 2.0
+    },
+    {
+      "text": "then you will be very successful",
+      "start": 202.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in that job.",
+      "start": 204.0,
+      "duration": 1.68
+    },
+    {
+      "text": "Your demand will increase.",
+      "start": 205.68,
+      "duration": 1.36
+    },
+    {
+      "text": "You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools.",
+      "start": 207.04,
+      "duration": 6.6
+    },
+    {
+      "text": "And with the help of such tools, AI models are deployed.",
+      "start": 213.64,
+      "duration": 3.04
+    },
+    {
+      "text": "For example, take the example of Amazon SageMaker.",
+      "start": 216.68,
+      "duration": 2.2
+    },
+    {
+      "text": "You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast",
+      "start": 218.88,
+      "duration": 11.84
+    },
+    {
+      "text": "I was looking at some Amazon courses on Skillbuilder",
+      "start": 230.72,
+      "duration": 2.84
+    },
+    {
+      "text": "If you don't know what is Skillbuilder, then you should know about Skillbuilder",
+      "start": 233.56,
+      "duration": 3.28
+    },
+    {
+      "text": "Because there are many free courses there that will teach you about Generative AI",
+      "start": 236.84,
+      "duration": 3.72
+    },
+    {
+      "text": "We will teach you how to use Amazon AWS tools",
+      "start": 240.56,
+      "duration": 3.36
+    },
+    {
+      "text": "If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS",
+      "start": 243.92,
+      "duration": 2.08
+    },
+    {
+      "text": "you can always create one",
+      "start": 246.0,
+      "duration": 3.0
+    },
+    {
+      "text": "you get 1 year free",
+      "start": 249.0,
+      "duration": 3.0
+    },
+    {
+      "text": "at the time of recording this video",
+      "start": 252.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Amazon AWS gives you a lot of free tier",
+      "start": 255.0,
+      "duration": 3.0
+    },
+    {
+      "text": "to deploy machines",
+      "start": 258.0,
+      "duration": 3.0
+    },
+    {
+      "text": "which is actually a lot of help from Amazon",
+      "start": 261.0,
+      "duration": 3.0
+    },
+    {
+      "text": "I will show you about Amazon AWS skill builder",
+      "start": 264.0,
+      "duration": 1.16
+    },
+    {
+      "text": "and some other Amazon courses",
+      "start": 265.16,
+      "duration": 2.96
+    },
+    {
+      "text": "in the computer screen.",
+      "start": 268.12,
+      "duration": 1.32
+    },
+    {
+      "text": "If you open this webpage,",
+      "start": 269.44,
+      "duration": 1.6
+    },
+    {
+      "text": "which I have also given in the description,",
+      "start": 271.04,
+      "duration": 1.8
+    },
+    {
+      "text": "if you see here,",
+      "start": 272.84,
+      "duration": 1.28
+    },
+    {
+      "text": "then here is a video of machine learning basics,",
+      "start": 274.12,
+      "duration": 3.12
+    },
+    {
+      "text": "which is a revolutionary video, let me tell you.",
+      "start": 277.24,
+      "duration": 2.36
+    },
+    {
+      "text": "You guys watch this video,",
+      "start": 279.6,
+      "duration": 1.2
+    },
+    {
+      "text": "I watched this video completely",
+      "start": 280.8,
+      "duration": 1.56
+    },
+    {
+      "text": "and it was a game changer",
+      "start": 282.36,
+      "duration": 1.56
+    },
+    {
+      "text": "because they have to do all this from Amazon AWS",
+      "start": 283.92,
+      "duration": 3.08
+    },
+    {
+      "text": "and keeping in mind the aspect of Amazon AWS",
+      "start": 287.0,
+      "duration": 4.0
+    },
+    {
+      "text": "which in my opinion is great",
+      "start": 291.0,
+      "duration": 3.0
+    },
+    {
+      "text": "because if you are able to do this kind of work",
+      "start": 294.0,
+      "duration": 3.0
+    },
+    {
+      "text": "then you are the king of modern generative AI",
+      "start": 297.0,
+      "duration": 3.0
+    },
+    {
+      "text": "you don't just have to know about algorithms",
+      "start": 300.0,
+      "duration": 3.0
+    },
+    {
+      "text": "you should know how to do these things",
+      "start": 303.0,
+      "duration": 2.5
+    },
+    {
+      "text": "and if you have learned to use code whisperer",
+      "start": 305.5,
+      "duration": 3.0
+    },
+    {
+      "text": "you have learned to use SageMaker",
+      "start": 308.5,
+      "duration": 2.0
+    },
+    {
+      "text": "then with the help of AWS",
+      "start": 310.5,
+      "duration": 2.5
+    },
+    {
+      "text": "the things you are able to do",
+      "start": 313.0,
+      "duration": 2.5
+    },
+    {
+      "text": "you will be able to do it faster",
+      "start": 315.5,
+      "duration": 2.0
+    },
+    {
+      "text": "so if I take you to the skill builder",
+      "start": 317.5,
+      "duration": 3.0
+    },
+    {
+      "text": "then you can sign up for it",
+      "start": 320.5,
+      "duration": 1.5
+    },
+    {
+      "text": "and there are a lot of free courses here",
+      "start": 322.0,
+      "duration": 1.5
+    },
+    {
+      "text": "you can explore them and start taking them.",
+      "start": 323.5,
+      "duration": 2.5
+    },
+    {
+      "text": "Create an account on Amazon AWS and start working.",
+      "start": 326.0,
+      "duration": 4.0
+    },
+    {
+      "text": "And in the next 1-2 years, the demand for all these things",
+      "start": 330.0,
+      "duration": 2.0
+    },
+    {
+      "text": "is going to increase a lot.",
+      "start": 332.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And as I told you a while ago,",
+      "start": 334.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that AI will not replace you,",
+      "start": 336.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you will be replaced by a person who uses AI to conquer,",
+      "start": 338.0,
+      "duration": 5.0
+    },
+    {
+      "text": "who will be faster than you because he uses AI",
+      "start": 343.0,
+      "duration": 4.0
+    },
+    {
+      "text": "so guys that's why I will put all these resources in the description for you",
+      "start": 347.0,
+      "duration": 4.0
+    },
+    {
+      "text": "and you can learn everything by doing it slowly",
+      "start": 351.0,
+      "duration": 3.0
+    },
+    {
+      "text": "here Amazon has put free courses for you",
+      "start": 354.0,
+      "duration": 3.0
+    },
+    {
+      "text": "with generative AI",
+      "start": 357.0,
+      "duration": 2.0
+    },
+    {
+      "text": "how you can use Amazon AWS tools",
+      "start": 359.0,
+      "duration": 3.0
+    },
+    {
+      "text": "you will get the link in the description",
+      "start": 362.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you all can access the link in the description",
+      "start": 364.0,
+      "duration": 1.48
+    },
+    {
+      "text": "All the learning paths",
+      "start": 365.48,
+      "duration": 1.86
+    },
+    {
+      "text": "PDFs and all this I will give you in the description",
+      "start": 367.34,
+      "duration": 3.18
+    },
+    {
+      "text": "Now we come back to what is machine learning",
+      "start": 370.52,
+      "duration": 3.28
+    },
+    {
+      "text": "So by showing the data we can do prediction",
+      "start": 373.8,
+      "duration": 2.0
+    },
+    {
+      "text": "With the help of machine learning, I just told you this",
+      "start": 375.8,
+      "duration": 2.5
+    },
+    {
+      "text": "But machine learning is of three types",
+      "start": 378.3,
+      "duration": 2.0
+    },
+    {
+      "text": "If I talk only about machine learning",
+      "start": 380.3,
+      "duration": 1.5
+    },
+    {
+      "text": "Supervised, unsupervised and reinforcement learning",
+      "start": 381.8,
+      "duration": 4.2
+    },
+    {
+      "text": "what happens in supervised learning is that you have some input",
+      "start": 386.0,
+      "duration": 3.08
+    },
+    {
+      "text": "or multiple output",
+      "start": 389.08,
+      "duration": 3.0
+    },
+    {
+      "text": "and you have this kind of organized data",
+      "start": 392.08,
+      "duration": 3.0
+    },
+    {
+      "text": "like I told you, based on precipitation, humidity and temperature",
+      "start": 395.08,
+      "duration": 3.0
+    },
+    {
+      "text": "we were predicting rain yes or no",
+      "start": 398.08,
+      "duration": 3.0
+    },
+    {
+      "text": "if I have this kind of data and I have values of new precipitation, humidity and temperature",
+      "start": 401.08,
+      "duration": 3.0
+    },
+    {
+      "text": "then based on that I can find out whether it will rain or not based on that",
+      "start": 404.08,
+      "duration": 2.92
+    },
+    {
+      "text": "or if I have some parameters of a person's health parameters",
+      "start": 407.0,
+      "duration": 3.0
+    },
+    {
+      "text": "let's say his blood pressure, let's say his blood glucose",
+      "start": 410.0,
+      "duration": 3.0
+    },
+    {
+      "text": "along with that, if I have all these things",
+      "start": 413.0,
+      "duration": 3.0
+    },
+    {
+      "text": "then I can find out whether he is diabetic or not",
+      "start": 416.0,
+      "duration": 2.0
+    },
+    {
+      "text": "if I run it with a machine learning algorithm",
+      "start": 418.0,
+      "duration": 3.0
+    },
+    {
+      "text": "then I can get a very good information about the patient",
+      "start": 421.0,
+      "duration": 3.0
+    },
+    {
+      "text": "I can get a presumption that he can have diabetes or not",
+      "start": 424.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and on the basis of that I can do tests etc.",
+      "start": 426.0,
+      "duration": 2.0
+    },
+    {
+      "text": "so it is being used a lot in medical and health care",
+      "start": 428.0,
+      "duration": 4.0
+    },
+    {
+      "text": "because generative AI is doing a lot of manual work",
+      "start": 432.0,
+      "duration": 3.0
+    },
+    {
+      "text": "so what happens in supervised learning",
+      "start": 435.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that the input you have is",
+      "start": 437.0,
+      "duration": 2.0
+    },
+    {
+      "text": "output is specified by you that this is the output",
+      "start": 439.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in unsupervised learning you have data",
+      "start": 441.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and on that data you have to",
+      "start": 444.0,
+      "duration": 2.0
+    },
+    {
+      "text": "train an algorithm in such a way",
+      "start": 446.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that algorithm tells you",
+      "start": 448.0,
+      "duration": 2.0
+    },
+    {
+      "text": "how this data can be organized",
+      "start": 450.0,
+      "duration": 2.0
+    },
+    {
+      "text": "for example, I can do clustering",
+      "start": 452.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I have a lot of data points and I want to",
+      "start": 454.0,
+      "duration": 2.0
+    },
+    {
+      "text": "find out which of these data points",
+      "start": 456.0,
+      "duration": 2.0
+    },
+    {
+      "text": "are related to each other",
+      "start": 458.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and how much are they related, so I can use",
+      "start": 460.0,
+      "duration": 2.0
+    },
+    {
+      "text": "k-means clustering algorithm",
+      "start": 462.0,
+      "duration": 2.0
+    },
+    {
+      "text": "or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms",
+      "start": 464.0,
+      "duration": 3.28
+    },
+    {
+      "text": "and do clustering and classify a data in some labels",
+      "start": 467.28,
+      "duration": 4.88
+    },
+    {
+      "text": "and I can generate those labels by myself",
+      "start": 472.16,
+      "duration": 2.0
+    },
+    {
+      "text": "these things are used a lot in generative AI and NLP",
+      "start": 474.16,
+      "duration": 3.28
+    },
+    {
+      "text": "once the data comes from neural network",
+      "start": 477.44,
+      "duration": 2.8
+    },
+    {
+      "text": "so in supervised learning, labeled examples are used",
+      "start": 480.24,
+      "duration": 2.64
+    },
+    {
+      "text": "and in unsupervised learning, unlabeled examples are used.",
+      "start": 482.88,
+      "duration": 2.82
+    },
+    {
+      "text": "Another example of unsupervised learning is credit card fraud detection.",
+      "start": 485.7,
+      "duration": 4.3
+    },
+    {
+      "text": "Which credit card fraud or which transaction can be a fraudulent transaction.",
+      "start": 490.0,
+      "duration": 5.5
+    },
+    {
+      "text": "Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning.",
+      "start": 495.5,
+      "duration": 5.7
+    },
+    {
+      "text": "Then after this, there is another category, reinforcement learning.",
+      "start": 501.2,
+      "duration": 3.2
+    },
+    {
+      "text": "What happens in Reinforcement Learning",
+      "start": 504.4,
+      "duration": 1.6
+    },
+    {
+      "text": "is that we leave an agent",
+      "start": 506.0,
+      "duration": 2.0
+    },
+    {
+      "text": "to collect data.",
+      "start": 508.0,
+      "duration": 2.0
+    },
+    {
+      "text": "So what does he do? The agent does trial and error",
+      "start": 510.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and on the basis of that trial and error",
+      "start": 512.0,
+      "duration": 2.0
+    },
+    {
+      "text": "he gets rewards or he gets a penalty",
+      "start": 514.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and what does he do? He maximizes his rewards.",
+      "start": 516.0,
+      "duration": 3.0
+    },
+    {
+      "text": "And after that, he only does the work",
+      "start": 519.0,
+      "duration": 2.0
+    },
+    {
+      "text": "by which his reward is maximized.",
+      "start": 521.0,
+      "duration": 1.0
+    },
+    {
+      "text": "And he himself knows",
+      "start": 522.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what work he should do",
+      "start": 524.0,
+      "duration": 1.6
+    },
+    {
+      "text": "so that my reward is maximized",
+      "start": 525.6,
+      "duration": 2.0
+    },
+    {
+      "text": "Now what is the overall process of running a machine learning algorithm on a data?",
+      "start": 527.6,
+      "duration": 4.88
+    },
+    {
+      "text": "What kind of process will you go through if you want to train a model with a machine learning algorithm?",
+      "start": 532.48,
+      "duration": 6.0
+    },
+    {
+      "text": "The first step is data collection, in this you collect data",
+      "start": 538.48,
+      "duration": 3.12
+    },
+    {
+      "text": "Now if your data is present in any database, then you will pull the data from there and bring it in the desired format",
+      "start": 541.6,
+      "duration": 4.4
+    },
+    {
+      "text": "and the second step after data collection",
+      "start": 546.0,
+      "duration": 2.4
+    },
+    {
+      "text": "is data pre-processing",
+      "start": 548.4,
+      "duration": 1.32
+    },
+    {
+      "text": "in which you will clean up the data",
+      "start": 549.72,
+      "duration": 2.24
+    },
+    {
+      "text": "and after cleaning it up",
+      "start": 551.96,
+      "duration": 1.8
+    },
+    {
+      "text": "we will bring it in such a format",
+      "start": 553.76,
+      "duration": 1.32
+    },
+    {
+      "text": "such that it can be consumed",
+      "start": 555.08,
+      "duration": 1.48
+    },
+    {
+      "text": "by a machine learning algorithm",
+      "start": 556.56,
+      "duration": 1.4
+    },
+    {
+      "text": "after this comes the model selection",
+      "start": 557.96,
+      "duration": 1.32
+    },
+    {
+      "text": "in which you will select a suitable model",
+      "start": 559.28,
+      "duration": 2.32
+    },
+    {
+      "text": "or sometimes we use a lot of models",
+      "start": 561.6,
+      "duration": 1.96
+    },
+    {
+      "text": "and for this packages like",
+      "start": 563.56,
+      "duration": 1.32
+    },
+    {
+      "text": "scikit-le learn, tensorflow,",
+      "start": 564.88,
+      "duration": 1.12
+    },
+    {
+      "text": "keras, pytorch, we use all of these",
+      "start": 566.0,
+      "duration": 3.0
+    },
+    {
+      "text": "then after this we train our model, this process",
+      "start": 569.0,
+      "duration": 3.0
+    },
+    {
+      "text": "sometimes takes a lot of time, sometimes it takes very less time",
+      "start": 572.0,
+      "duration": 3.0
+    },
+    {
+      "text": "depending upon which algorithm we are using, how many",
+      "start": 575.0,
+      "duration": 3.0
+    },
+    {
+      "text": "data points we have and what kind of data points",
+      "start": 578.0,
+      "duration": 3.0
+    },
+    {
+      "text": "sometimes our data points are such big vectors",
+      "start": 581.0,
+      "duration": 3.0
+    },
+    {
+      "text": "that even if it is less, it takes a lot of time.",
+      "start": 584.0,
+      "duration": 2.0
+    },
+    {
+      "text": "After this, we do testing and evaluation",
+      "start": 586.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in which we test our model",
+      "start": 588.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and find out how much our model is better",
+      "start": 590.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and to make it better",
+      "start": 593.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what can we do",
+      "start": 595.0,
+      "duration": 1.0
+    },
+    {
+      "text": "we get an accuracy number",
+      "start": 596.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and if we can maximize the accuracy",
+      "start": 598.0,
+      "duration": 1.0
+    },
+    {
+      "text": "with any other algorithm",
+      "start": 599.0,
+      "duration": 2.0
+    },
+    {
+      "text": "then we will do that",
+      "start": 601.0,
+      "duration": 1.0
+    },
+    {
+      "text": "after this we do predictions",
+      "start": 602.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and after doing predictions we put the model",
+      "start": 604.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in production and after that",
+      "start": 606.0,
+      "duration": 2.0
+    },
+    {
+      "text": "we keep updating the model",
+      "start": 608.0,
+      "duration": 2.0
+    },
+    {
+      "text": "as we get more data",
+      "start": 610.0,
+      "duration": 2.0
+    },
+    {
+      "text": "so this process is iterative",
+      "start": 612.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and it keeps on repeating",
+      "start": 614.0,
+      "duration": 2.0
+    },
+    {
+      "text": "now we have some common metrics",
+      "start": 616.0,
+      "duration": 2.0
+    },
+    {
+      "text": "to evaluate machine learning algorithms",
+      "start": 618.0,
+      "duration": 2.0
+    },
+    {
+      "text": "like we have a metric",
+      "start": 620.0,
+      "duration": 2.0
+    },
+    {
+      "text": "ROC AOC curve, along with that",
+      "start": 622.0,
+      "duration": 2.0
+    },
+    {
+      "text": "we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error",
+      "start": 624.0,
+      "duration": 8.0
+    },
+    {
+      "text": "Once you know what all these are, you will be able to evaluate your model very closely",
+      "start": 632.0,
+      "duration": 5.0
+    },
+    {
+      "text": "And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same",
+      "start": 637.0,
+      "duration": 9.5
+    },
+    {
+      "text": "but how you are deploying such that your service is not down",
+      "start": 646.5,
+      "duration": 4.0
+    },
+    {
+      "text": "you don't get downtime at all",
+      "start": 650.5,
+      "duration": 2.0
+    },
+    {
+      "text": "and you get such a managed environment",
+      "start": 652.5,
+      "duration": 2.0
+    },
+    {
+      "text": "so that you can retrain your model",
+      "start": 654.5,
+      "duration": 2.0
+    },
+    {
+      "text": "you can put it in production",
+      "start": 656.5,
+      "duration": 2.0
+    },
+    {
+      "text": "you are not having any problem",
+      "start": 658.5,
+      "duration": 2.0
+    },
+    {
+      "text": "and for this, as I told you, you can check out Amazon's tools",
+      "start": 660.5,
+      "duration": 2.0
+    },
+    {
+      "text": "I will put all the links in the description.",
+      "start": 662.5,
+      "duration": 3.18
+    },
+    {
+      "text": "Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI?",
+      "start": 665.68,
+      "duration": 6.76
+    },
+    {
+      "text": "Deep learning is to make a neural network that approximates a function.",
+      "start": 672.44,
+      "duration": 4.96
+    },
+    {
+      "text": "That function is assumed to fit the data given to us.",
+      "start": 677.4,
+      "duration": 4.48
+    },
+    {
+      "text": "And it will also predict the incoming data points",
+      "start": 681.88,
+      "duration": 3.12
+    },
+    {
+      "text": "Neural network is a complex function",
+      "start": 685.0,
+      "duration": 3.0
+    },
+    {
+      "text": "which is impossible to imagine",
+      "start": 688.0,
+      "duration": 4.0
+    },
+    {
+      "text": "and it can approximate a lot of data points",
+      "start": 692.0,
+      "duration": 3.0
+    },
+    {
+      "text": "if I say 3x4x7",
+      "start": 695.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and 1x2x3",
+      "start": 697.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and 4x4x8",
+      "start": 699.0,
+      "duration": 2.0
+    },
+    {
+      "text": "then you will understand that it is adding",
+      "start": 701.0,
+      "duration": 2.0
+    },
+    {
+      "text": "so function is simple x plus y But sometimes the function is so complex",
+      "start": 703.0,
+      "duration": 3.0
+    },
+    {
+      "text": "That you want to make that function",
+      "start": 706.0,
+      "duration": 2.0
+    },
+    {
+      "text": "in such a way that",
+      "start": 708.0,
+      "duration": 2.0
+    },
+    {
+      "text": "it is sitting very accurately and realistically",
+      "start": 710.0,
+      "duration": 2.0
+    },
+    {
+      "text": "on the data",
+      "start": 712.0,
+      "duration": 2.0
+    },
+    {
+      "text": "So for this we use deep learning",
+      "start": 714.0,
+      "duration": 2.0
+    },
+    {
+      "text": "In which we use artificial neural networks",
+      "start": 716.0,
+      "duration": 2.0
+    },
+    {
+      "text": "Artificial neural networks basically",
+      "start": 718.0,
+      "duration": 2.0
+    },
+    {
+      "text": "approximate a function",
+      "start": 720.0,
+      "duration": 2.0
+    },
+    {
+      "text": "We feed data with it again and again",
+      "start": 722.0,
+      "duration": 2.0
+    },
+    {
+      "text": "And minimize the error this process is called training",
+      "start": 724.0,
+      "duration": 2.4
+    },
+    {
+      "text": "we have feed forward neural networks",
+      "start": 726.4,
+      "duration": 2.0
+    },
+    {
+      "text": "we have backward propagation methods",
+      "start": 728.4,
+      "duration": 2.3
+    },
+    {
+      "text": "then there are different types of neural networks",
+      "start": 730.7,
+      "duration": 2.2
+    },
+    {
+      "text": "like CNN, convolutional neural network",
+      "start": 732.9,
+      "duration": 2.2
+    },
+    {
+      "text": "RNN, recurrent neural network",
+      "start": 735.1,
+      "duration": 1.8
+    },
+    {
+      "text": "along with that there are LSTMs",
+      "start": 736.9,
+      "duration": 1.4
+    },
+    {
+      "text": "long short term memory neural networks",
+      "start": 738.3,
+      "duration": 2.0
+    },
+    {
+      "text": "these are made to solve longer sequences and vanishing gradient problems.",
+      "start": 740.3,
+      "duration": 4.7
+    },
+    {
+      "text": "I had made a video long ago in which I talked about vanishing gradient problem.",
+      "start": 745.0,
+      "duration": 4.0
+    },
+    {
+      "text": "So you can watch it. I had uploaded those videos of machine learning long ago.",
+      "start": 749.0,
+      "duration": 3.0
+    },
+    {
+      "text": "So if you are interested, you can watch them again.",
+      "start": 752.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I have explained it in a very classical way on the board.",
+      "start": 754.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Then we have auto encoders, GANs, Generative Adversarial Networks.",
+      "start": 757.0,
+      "duration": 5.0
+    },
+    {
+      "text": "GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards",
+      "start": 762.0,
+      "duration": 4.0
+    },
+    {
+      "text": "Generative AI",
+      "start": 766.0,
+      "duration": 2.0
+    },
+    {
+      "text": "earlier LSTMs were used but since",
+      "start": 768.0,
+      "duration": 2.0
+    },
+    {
+      "text": "the time of transformers which is again",
+      "start": 770.0,
+      "duration": 2.0
+    },
+    {
+      "text": "a kind of neural network",
+      "start": 772.0,
+      "duration": 2.0
+    },
+    {
+      "text": "architecture such that",
+      "start": 774.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you can train data on NLP",
+      "start": 776.0,
+      "duration": 2.0
+    },
+    {
+      "text": "very easily so you can use it",
+      "start": 778.0,
+      "duration": 2.0
+    },
+    {
+      "text": "to arrive at things like chart GPT",
+      "start": 780.0,
+      "duration": 2.0
+    },
+    {
+      "text": "but again it's not",
+      "start": 782.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that easy",
+      "start": 784.0,
+      "duration": 1.02
+    },
+    {
+      "text": "you have to understand the basics",
+      "start": 785.02,
+      "duration": 2.0
+    },
+    {
+      "text": "and then you have to see what is the architecture of transformer",
+      "start": 787.02,
+      "duration": 3.0
+    },
+    {
+      "text": "what is transformer, what is attention",
+      "start": 790.02,
+      "duration": 2.0
+    },
+    {
+      "text": "why it was made, what was the problem in LSTM",
+      "start": 792.02,
+      "duration": 2.0
+    },
+    {
+      "text": "that we switched to transformers",
+      "start": 794.02,
+      "duration": 2.0
+    },
+    {
+      "text": "and how a transformer's architecture generates new data",
+      "start": 796.02,
+      "duration": 3.0
+    },
+    {
+      "text": "by looking at old data",
+      "start": 799.02,
+      "duration": 2.0
+    },
+    {
+      "text": "how it is encoded in numbers",
+      "start": 801.02,
+      "duration": 2.0
+    },
+    {
+      "text": "all this textual information in numbers",
+      "start": 803.02,
+      "duration": 1.98
+    },
+    {
+      "text": "such that it is predicting our next token",
+      "start": 805.0,
+      "duration": 2.0
+    },
+    {
+      "text": "now it is not that you should know everything",
+      "start": 807.0,
+      "duration": 2.0
+    },
+    {
+      "text": "that you know mathematics",
+      "start": 809.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you know loss function",
+      "start": 811.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you should know the architecture of python",
+      "start": 813.0,
+      "duration": 4.0
+    },
+    {
+      "text": "no, you should learn",
+      "start": 817.0,
+      "duration": 2.0
+    },
+    {
+      "text": "you should have information",
+      "start": 819.0,
+      "duration": 2.0
+    },
+    {
+      "text": "how your neural network is trained",
+      "start": 821.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and after that your work is very simple",
+      "start": 823.0,
+      "duration": 2.28
+    },
+    {
+      "text": "use amazon sage maker",
+      "start": 825.28,
+      "duration": 1.8
+    },
+    {
+      "text": "use amazon tools",
+      "start": 827.08,
+      "duration": 1.92
+    },
+    {
+      "text": "feed the data",
+      "start": 829.0,
+      "duration": 1.32
+    },
+    {
+      "text": "there is a thing made for you",
+      "start": 830.32,
+      "duration": 2.68
+    },
+    {
+      "text": "such that you can send your model in production as soon as possible",
+      "start": 833.0,
+      "duration": 3.6
+    },
+    {
+      "text": "so you will use it",
+      "start": 836.6,
+      "duration": 1.52
+    },
+    {
+      "text": "use any new AI tool",
+      "start": 838.12,
+      "duration": 1.96
+    },
+    {
+      "text": "use those things that are already available",
+      "start": 840.08,
+      "duration": 2.72
+    },
+    {
+      "text": "instead of reinventing the wheel",
+      "start": 842.8,
+      "duration": 1.76
+    },
+    {
+      "text": "you will work by yourself",
+      "start": 844.56,
+      "duration": 1.44
+    },
+    {
+      "text": "so definitely you will be successful in all these things",
+      "start": 846.0,
+      "duration": 2.8
+    },
+    {
+      "text": "so this was some basics of machine learning, AI and deep learning",
+      "start": 848.8,
+      "duration": 4.38
+    },
+    {
+      "text": "you want to learn them again",
+      "start": 853.18,
+      "duration": 1.42
+    },
+    {
+      "text": "I will put the links of Amazon skill builder in the description",
+      "start": 854.6,
+      "duration": 3.46
+    },
+    {
+      "text": "on which you will learn how to use generative AI and Amazon SageMaker",
+      "start": 858.06,
+      "duration": 4.08
+    },
+    {
+      "text": "to do the things of generative AI",
+      "start": 862.14,
+      "duration": 2.04
+    },
+    {
+      "text": "I will give you all that in the description",
+      "start": 864.18,
+      "duration": 1.82
+    },
+    {
+      "text": "I was watching this video of Amazon",
+      "start": 866.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and it was really",
+      "start": 868.0,
+      "duration": 2.0
+    },
+    {
+      "text": "very helpful for me to be honest",
+      "start": 870.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and go to this page and watch these videos",
+      "start": 872.0,
+      "duration": 2.0
+    },
+    {
+      "text": "first of all, some basics of",
+      "start": 874.0,
+      "duration": 2.0
+    },
+    {
+      "text": "machine learning has been talked about",
+      "start": 876.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and how to use Generative AI",
+      "start": 878.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and how to use Amazon SageMaker",
+      "start": 880.0,
+      "duration": 2.0
+    },
+    {
+      "text": "to do all these things",
+      "start": 882.0,
+      "duration": 2.0
+    },
+    {
+      "text": "is told about it so you can check",
+      "start": 884.0,
+      "duration": 2.0
+    },
+    {
+      "text": "the resources in the description",
+      "start": 886.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I hope you liked this video",
+      "start": 888.0,
+      "duration": 2.0
+    },
+    {
+      "text": "what do you have to say?",
+      "start": 890.0,
+      "duration": 2.0
+    },
+    {
+      "text": "do you agree with me that AI",
+      "start": 892.0,
+      "duration": 2.0
+    },
+    {
+      "text": "will not take the job but",
+      "start": 894.0,
+      "duration": 2.0
+    },
+    {
+      "text": "AI tools will take your job",
+      "start": 896.0,
+      "duration": 2.0
+    },
+    {
+      "text": "with that said",
+      "start": 898.0,
+      "duration": 2.0
+    },
+    {
+      "text": "I hope this video was helpful",
+      "start": 900.0,
+      "duration": 2.0
+    },
+    {
+      "text": "thank you so much for watching this video",
+      "start": 902.0,
+      "duration": 2.0
+    },
+    {
+      "text": "and I will see you next time",
+      "start": 904.0,
+      "duration": 0.0
+    }
+  ]
+}
