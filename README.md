@@ -90,3 +90,5 @@ The server will bind to `localhost:7860`. Open your browser to interact with the
 - *"How does 3Blue1Brown explain the relationship between pixel brightness and a neuron's activation?"* -> Expects `3B1B Neural Network (~0:00 - 5:00)`
 - *"What example does CodeWithHarry use to explain supervised learning?"* -> Expects `CodeWithHarry (~5:00)`
 - *"How does CampusX explain the difference between ML and Deep Learning?"* -> Expects `CampusX (~2:00)`
+
+![1774464757147](https://github.com/user-attachments/assets/3760a46d-26f8-49bc-ab6c-0c953cd19a5f)
